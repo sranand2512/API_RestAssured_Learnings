@@ -32,26 +32,6 @@ To get started with this project, follow the steps below:
    git clone https://github.com/sranand2512/API_RestAssured_Learning.git
 Navigate to the project directory:
 
-bash
-Copy code
-cd API_RestAssured_Learning
-Build the project using Maven:
-
-bash
-Copy code
-mvn clean installation
-Running Tests
-You can run the tests using the TestNG XML files provided in the project:
-
-bash
-Copy code
-mvn test -DsuiteXmlFile=testng266.xml
-or
-
-bash
-Copy code
-mvn test -DsuiteXmlFile=testng272.xml
-Generating Reports
 To generate Allure reports, follow these steps:
 
 Run the tests to generate the Allure results.
@@ -72,9 +52,5 @@ If you have any questions or suggestions, feel free to reach out to me:
 
 GitHub: sranand2512
 LinkedIn: Saurabh Kumar
-yaml
-Copy code
 
----
 
-You can now copy this entire content and paste it into your README.md file.
