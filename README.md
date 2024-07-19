@@ -4,22 +4,6 @@ This repository contains learning materials and practice code for API testing us
 
 ## Project Structure
 
-API_RestAssured_Learning
-├── .idea
-├── allure-results
-├── src
-│ └── test
-│ └── java
-│ └── thetestingacadmy
-├── test-output
-├── .gitignore
-├── pom.xml
-├── testng266.xml
-├── testng272.xml
-└── README.md
-
-markdown
-Copy code
 
 - **.idea**: Contains IntelliJ IDEA project configuration files.
 - **allure-results**: Directory for storing Allure report results.
@@ -55,7 +39,7 @@ Build the project using Maven:
 
 bash
 Copy code
-mvn clean install
+mvn clean installation
 Running Tests
 You can run the tests using the TestNG XML files provided in the project:
 
