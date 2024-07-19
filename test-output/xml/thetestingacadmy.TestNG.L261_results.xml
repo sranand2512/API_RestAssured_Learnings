@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="C:/Users/sanan/IdeaProjects/ATB6xRestAssured/src/test/java/thetestingacadmy/TestNG/L261.java"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="12.145">
+    <properties></properties>
+
+
+
+            <testcase
+                name="getRequest"
+                time="8.592"
+                classname="thetestingacadmy.TestNG.L261">
+            </testcase>
+            <testcase
+                name="getRequest2"
+                time="3.553"
+                classname="thetestingacadmy.TestNG.L261">
+            </testcase>
+</testsuite>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="C:/Users/sanan/IdeaProjects/ATB6xRestAssured/src/test/java/thetestingacadmy/TestNG/L266.java"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.207">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testNegativeOne"
+                time="0.191"
+                classname="thetestingacadmy.ex_25_july_2024.L278">
+            </testcase>
+            <testcase
+                name="testMethodOne"
+                time="0.003"
+                classname="thetestingacadmy.ex_25_july_2024.L278">
+            </testcase>
+            <testcase
+                name="testMethodThree"
+                time="0.007"
+                classname="thetestingacadmy.ex_25_july_2024.L278">
+            </testcase>
+            <testcase
+                name="testMethodTwo"
+                time="0.006"
+                classname="thetestingacadmy.ex_25_july_2024.L278">
+            </testcase>
+</testsuite>

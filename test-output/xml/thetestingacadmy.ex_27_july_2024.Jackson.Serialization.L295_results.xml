@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ATB6xRestAssured"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="1.026">
+    <properties></properties>
+
+
+
+            <testcase
+                name="serializationJackson"
+                time="1.026"
+                classname="thetestingacadmy.ex_27_july_2024.Jackson.Serialization.L295">
+            </testcase>
+</testsuite>
