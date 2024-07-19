@@ -18,10 +18,8 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/pom.xml" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
@@ -40,178 +38,28 @@
     &quot;Application.L260.executor&quot;: &quot;Run&quot;,
     &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;TestNG.C:/Users/sanan/IdeaProjects/ATB6xRestAssured/src/test/java/thetestingacadmy/ex_22_july_2024/Crud/testing_crud.xml.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.C:/Users/sanan/IdeaProjects/ATB6xRestAssured/src/test/java/thetestingacadmy/ex_25_july_2024/Listeners/testng288.xml.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.C:/Users/sanan/IdeaProjects/ATB6xRestAssured/src/test/java/thetestingacadmy/ex_25_july_2024/testng280all.xml.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.C:/Users/sanan/IdeaProjects/ATB6xRestAssured/src/test/java/thetestingacadmy/ex_25_jun_2024/Listeners/testng288.xml.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.C:/Users/sanan/IdeaProjects/ATB6xRestAssured/src/test/java/thetestingacadmy/ex_25_jun_2024/testng280Prod.xml.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.C:/Users/sanan/IdeaProjects/ATB6xRestAssured/src/test/java/thetestingacadmy/ex_25_jun_2024/testng280QA.xml.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.C:/Users/sanan/IdeaProjects/ATB6xRestAssured/src/test/java/thetestingacadmy/ex_25_jun_2024/testng280Reg.xml.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.C:/Users/sanan/IdeaProjects/ATB6xRestAssured/src/test/java/thetestingacadmy/ex_25_jun_2024/testng280all.xml.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.C:/Users/sanan/IdeaProjects/ATB6xRestAssured/src/test/java/thetestingacadmy/ex_25_jun_2024/testng280smoke.xml.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.C:/Users/sanan/IdeaProjects/ATB6xRestAssured/src/test/java/thetestingacadmy/ex_25_jun_2024/testng284_param_chrome.xml.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.C:/Users/sanan/IdeaProjects/ATB6xRestAssured/src/test/java/thetestingacadmy/ex_25_jun_2024/testng284_param_firefox.xml.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.C:/Users/sanan/IdeaProjects/ATB6xRestAssured/testng.xml.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.C:/Users/sanan/IdeaProjects/ATB6xRestAssured/testng266.xml.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.C:/Users/sanan/IdeaProjects/ATB6xRestAssured/testng272.xml.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.L261.getRequest.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.L263.getrequest.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.L264.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.L265.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.L265.testCase.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.L269.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.L270 (1).executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.L270.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.L271.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.L272.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.L273.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.L273.testPutRequestNonBDD.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.L274.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.L274.testPutRequestNonBDD.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.L275.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.L276.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.L277 (1).executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.L277.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.L277.testPUTRequestPositive.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.L279.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.L281.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.L282.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.L283.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.L283.getBookingId.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.L283.getToken.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.L285.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.L286.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.L290_payload_using_Map.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.L292.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.L293.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.L294.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.L295 (1).executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.L295.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.L296.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.L297.JSValidation.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.L297.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.L298.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.testing.GetBookingID.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.testing.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.testing.test.executor&quot;: &quot;Run&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/sanan/IdeaProjects/ATB6xRestAssured/src/test/java/thetestingacadmy/ex_25_jun_2024&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\sanan\IdeaProjects\ATB6xRestAssured\src\test\java\thetestingacadmy\ex_25_jun_2024" />
-      <recent name="C:\Users\sanan\IdeaProjects\ATB6xRestAssured\src\test\java\thetestingacadmy\ex_22_july_2024\Crud" />
-      <recent name="C:\Users\sanan\IdeaProjects\ATB6xRestAssured\src\test\java\thetestingacadmy\ex_22_july_2024\Crud\Post" />
-      <recent name="C:\Users\sanan\IdeaProjects\ATB6xRestAssured" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\sanan\IdeaProjects\ATB6xRestAssured\src\test\java\thetestingacadmy\ex_25_jun_2024\Listeners" />
-      <recent name="C:\Users\sanan\IdeaProjects\ATB6xRestAssured" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="thetestingacadmy.ex_27_july_2024.Gson.Serialization" />
-      <recent name="thetestingacadmy.ex_27_july_2024.Gson" />
-      <recent name="thetestingacadmy.ex_25_jun_2024.Listeners" />
-    </key>
-  </component>
-  <component name="RunManager" selected="TestNG.L298">
-    <configuration name="L295 (1)" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="API_RestAssured_Learning" />
+  <component name="RunManager">
+    <configuration name="L260" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thetestingacadmy.L260" />
+      <module name="ATB6xRestAssured" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="thetestingacadmy.ex_27_july_2024.Jackson.Serialization.*" />
+          <option name="PATTERN" value="thetestingacadmy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="thetestingacadmy.ex_27_july_2024.Jackson.Serialization" />
-      <option name="MAIN_CLASS_NAME" value="thetestingacadmy.ex_27_july_2024.Jackson.Serialization.L295" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="L296" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="API_RestAssured_Learning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="thetestingacadmy.ex_27_july_2024.Jackson.DeSerialization.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="thetestingacadmy.ex_27_july_2024.Jackson.DeSerialization" />
-      <option name="MAIN_CLASS_NAME" value="thetestingacadmy.ex_27_july_2024.Jackson.DeSerialization.L296" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="L297" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="API_RestAssured_Learning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="thetestingacadmy.ex_27_july_2024.jsonschemavalidation.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="thetestingacadmy.ex_27_july_2024.jsonschemavalidation" />
-      <option name="MAIN_CLASS_NAME" value="thetestingacadmy.ex_27_july_2024.jsonschemavalidation.L297" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="L297.JSValidation" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="API_RestAssured_Learning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="thetestingacadmy.ex_27_july_2024.jsonschemavalidation.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="thetestingacadmy.ex_27_july_2024.jsonschemavalidation" />
-      <option name="MAIN_CLASS_NAME" value="thetestingacadmy.ex_27_july_2024.jsonschemavalidation.L297" />
-      <option name="METHOD_NAME" value="JSValidation" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="L298" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="API_RestAssured_Learning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="thetestingacadmy.ex_27_july_2024.PayloadFile.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="thetestingacadmy.ex_27_july_2024.PayloadFile" />
-      <option name="MAIN_CLASS_NAME" value="thetestingacadmy.ex_27_july_2024.PayloadFile.L298" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.L298" />
-        <item itemvalue="TestNG.L297" />
-        <item itemvalue="TestNG.L297.JSValidation" />
-        <item itemvalue="TestNG.L296" />
-        <item itemvalue="TestNG.L295 (1)" />
+        <item itemvalue="Application.L260" />
       </list>
     </recent_temporary>
   </component>
@@ -232,39 +80,7 @@
       <option name="project" value="LOCAL" />
       <updated>1719925579878</updated>
     </task>
-    <task id="LOCAL-00002" summary="RestAssured">
-      <option name="closed" value="true" />
-      <created>1719927917167</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1719927917167</updated>
-    </task>
-    <task id="LOCAL-00003" summary="RestAssured_Learning">
-      <option name="closed" value="true" />
-      <created>1721386484620</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1721386484620</updated>
-    </task>
-    <task id="LOCAL-00004" summary="RestAssured_Learning">
-      <option name="closed" value="true" />
-      <created>1721386559169</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1721386559169</updated>
-    </task>
-    <task id="LOCAL-00005" summary="RestAssured_Learning">
-      <option name="closed" value="true" />
-      <created>1721386695541</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1721386695545</updated>
-    </task>
-    <option name="localTasksCounter" value="6" />
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -281,7 +97,6 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="RestAssured" />
-    <MESSAGE value="RestAssured_Learning" />
-    <option name="LAST_COMMIT_MESSAGE" value="RestAssured_Learning" />
+    <option name="LAST_COMMIT_MESSAGE" value="RestAssured" />
   </component>
 </project>
