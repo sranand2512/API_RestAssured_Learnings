@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/sanan/IdeaProjects/ATB6xRestAssured/src/test/java/thetestingacadmy/TestNG/L266.java">
+        <groups>
+            <run>
+                <include name="Prod"/>
+            </run>
+        </groups>
+
+        <classes>
+            <class name="thetestingacadmy.ex_25_july_2024.L280">
+            </class>
+        </classes>
+    </test>
+</suite>

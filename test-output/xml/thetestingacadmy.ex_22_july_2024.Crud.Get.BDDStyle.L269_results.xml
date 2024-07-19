@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="C:/Users/sanan/IdeaProjects/ATB6xRestAssured/src/test/java/thetestingacadmy/ex_22_july_2024/Crud"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="3.295">
+    <properties></properties>
+
+
+
+            <testcase
+                name="geyRequestBDDStyle"
+                time="3.295"
+                classname="BDDStyle.Get.thetestingacadmy.ex_22_jun_2024.Crud.L269">
+            </testcase>
+</testsuite>

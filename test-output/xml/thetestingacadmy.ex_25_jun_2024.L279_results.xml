@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ATB6xRestAssured"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.272">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testMethodB"
+                time="0.011"
+                classname="thetestingacadmy.ex_25_july_2024.L279">
+            </testcase>
+            <testcase
+                name="testMethodZ"
+                time="0.013"
+                classname="thetestingacadmy.ex_25_july_2024.L279">
+            </testcase>
+            <testcase
+                name="testMethodC"
+                time="0.005"
+                classname="thetestingacadmy.ex_25_july_2024.L279">
+            </testcase>
+            <testcase
+                name="testMethodA"
+                time="0.243"
+                classname="thetestingacadmy.ex_25_july_2024.L279">
+            </testcase>
+</testsuite>
