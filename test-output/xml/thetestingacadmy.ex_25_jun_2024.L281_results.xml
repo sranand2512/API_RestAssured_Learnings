@@ -12,11 +12,11 @@
             <testcase
                 name="serverStartedOK"
                 time="0.193"
-                classname="thetestingacadmy.ex_25_july_2024.L281">
+                classname="com.saurabhRestAssured.ex_25_july_2024.L281">
             </testcase>
             <testcase
                 name="methodOne"
                 time="0.005"
-                classname="thetestingacadmy.ex_25_july_2024.L281">
+                classname="com.saurabhRestAssured.ex_25_july_2024.L281">
             </testcase>
 </testsuite>

@@ -12,16 +12,16 @@
             <testcase
                 name="testPutRequest"
                 time="0.003"
-                classname="thetestingacadmy.ex_25_july_2024.L283">
+                classname="com.saurabhRestAssured.ex_25_july_2024.L283">
             </testcase>
             <testcase
                 name="getBookingId"
                 time="0.005"
-                classname="thetestingacadmy.ex_25_july_2024.L283">
+                classname="com.saurabhRestAssured.ex_25_july_2024.L283">
             </testcase>
             <testcase
                 name="getToken"
                 time="0.220"
-                classname="thetestingacadmy.ex_25_july_2024.L283">
+                classname="com.saurabhRestAssured.ex_25_july_2024.L283">
             </testcase>
 </testsuite>

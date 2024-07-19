@@ -12,6 +12,6 @@
             <testcase
                 name="postRequestNonBDDStylePositive"
                 time="0.369"
-                classname="thetestingacadmy.ex_27_july_2024.Gson.Serialization.L293">
+                classname="com.saurabhRestAssured.ex_27_july_2024.Gson.Serialization.L293">
             </testcase>
 </testsuite>

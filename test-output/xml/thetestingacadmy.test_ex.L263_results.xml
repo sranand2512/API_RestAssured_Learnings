@@ -12,6 +12,6 @@
             <testcase
                 name="getrequest"
                 time="9.775"
-                classname="thetestingacadmy.test_ex.L263">
+                classname="com.saurabhRestAssured.test_ex.L263">
             </testcase>
 </testsuite>

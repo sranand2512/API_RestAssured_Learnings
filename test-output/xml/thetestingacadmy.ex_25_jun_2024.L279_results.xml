@@ -12,21 +12,21 @@
             <testcase
                 name="testMethodB"
                 time="0.011"
-                classname="thetestingacadmy.ex_25_july_2024.L279">
+                classname="com.saurabhRestAssured.ex_25_july_2024.L279">
             </testcase>
             <testcase
                 name="testMethodZ"
                 time="0.013"
-                classname="thetestingacadmy.ex_25_july_2024.L279">
+                classname="com.saurabhRestAssured.ex_25_july_2024.L279">
             </testcase>
             <testcase
                 name="testMethodC"
                 time="0.005"
-                classname="thetestingacadmy.ex_25_july_2024.L279">
+                classname="com.saurabhRestAssured.ex_25_july_2024.L279">
             </testcase>
             <testcase
                 name="testMethodA"
                 time="0.243"
-                classname="thetestingacadmy.ex_25_july_2024.L279">
+                classname="com.saurabhRestAssured.ex_25_july_2024.L279">
             </testcase>
 </testsuite>

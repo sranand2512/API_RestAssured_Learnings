@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <listeners>
+        <listener class-name="com.saurabhRestAssured.ex_25_july_2024.Listeners.CustomListener"></listener>
+    </listeners>
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/sanan/IdeaProjects/ATB6xRestAssured/src/test/java/thetestingacadmy/ex_25_jun_2024/Listeners/L288_listeners.java">
+        <classes>
+            <class name="com.saurabhRestAssured.ex_25_july_2024.Listeners.L288_listeners">
+            </class>
+        </classes>
+    </test>
+</suite>

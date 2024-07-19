@@ -12,6 +12,6 @@
             <testcase
                 name="testPostReq"
                 time="10.923"
-                classname="thetestingacadmy.ex_27_july_2024.L290_payload_using_Map">
+                classname="com.saurabhRestAssured.ex_27_july_2024.L290_payload_using_Map">
             </testcase>
 </testsuite>

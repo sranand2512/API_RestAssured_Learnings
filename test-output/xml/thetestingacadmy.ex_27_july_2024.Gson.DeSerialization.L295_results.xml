@@ -12,6 +12,6 @@
             <testcase
                 name="Deserialization"
                 time="0.418"
-                classname="thetestingacadmy.ex_27_july_2024.Gson.DeSerialization.L295">
+                classname="com.saurabhRestAssured.ex_27_july_2024.Gson.DeSerialization.L295">
             </testcase>
 </testsuite>

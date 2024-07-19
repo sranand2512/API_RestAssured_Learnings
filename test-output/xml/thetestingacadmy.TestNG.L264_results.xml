@@ -12,6 +12,6 @@
             <testcase
                 name="demo5"
                 time="0.208"
-                classname="thetestingacadmy.TestNG.L264">
+                classname="com.saurabhRestAssured.TestNG.L264">
             </testcase>
 </testsuite>

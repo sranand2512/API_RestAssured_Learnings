@@ -4,7 +4,102 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="757a9bee-ae0f-4a52-b1e3-e1a702e3af08" name="Changes" comment="RestAssured_Learning" />
+    <list default="true" id="757a9bee-ae0f-4a52-b1e3-e1a702e3af08" name="Changes" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/thetestingacadmy/TestNG/L261.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/saurabhRestAssured/TestNG/L261.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/thetestingacadmy/TestNG/L262.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/saurabhRestAssured/TestNG/L262.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/thetestingacadmy/TestNG/L264.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/saurabhRestAssured/TestNG/L264.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/thetestingacadmy/TestNG/L265.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/saurabhRestAssured/TestNG/L265.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/thetestingacadmy/TestNG/L266.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/saurabhRestAssured/TestNG/L266.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/thetestingacadmy/TestNG/L267.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/saurabhRestAssured/TestNG/L267.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/thetestingacadmy/ex_22_july_2024/Crud/Delete/L275.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/saurabhRestAssured/ex_22_july_2024/Crud/Delete/L275.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/thetestingacadmy/ex_22_july_2024/Crud/Full/L276.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/saurabhRestAssured/ex_22_july_2024/Crud/Full/L276.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/thetestingacadmy/ex_22_july_2024/Crud/Full/L277.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/saurabhRestAssured/ex_22_july_2024/Crud/Full/L277.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/thetestingacadmy/ex_22_july_2024/Crud/Full/testing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/saurabhRestAssured/ex_22_july_2024/Crud/Full/testing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/thetestingacadmy/ex_22_july_2024/Crud/Get/BDDStyle/L268.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/saurabhRestAssured/ex_22_july_2024/Crud/Get/BDDStyle/L268.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/thetestingacadmy/ex_22_july_2024/Crud/Get/BDDStyle/L269.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/saurabhRestAssured/ex_22_july_2024/Crud/Get/BDDStyle/L269.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/thetestingacadmy/ex_22_july_2024/Crud/Get/L270.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/saurabhRestAssured/ex_22_july_2024/Crud/Get/L270.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/thetestingacadmy/ex_22_july_2024/Crud/Get/NonBDDStyle/L270.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/saurabhRestAssured/ex_22_july_2024/Crud/Get/NonBDDStyle/L270.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/thetestingacadmy/ex_22_july_2024/Crud/Patch/L274.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/saurabhRestAssured/ex_22_july_2024/Crud/Patch/L274.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/thetestingacadmy/ex_22_july_2024/Crud/Post/L271.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/saurabhRestAssured/ex_22_july_2024/Crud/Post/L271.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/thetestingacadmy/ex_22_july_2024/Crud/Post/L272.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/saurabhRestAssured/ex_22_july_2024/Crud/Post/L272.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/thetestingacadmy/ex_22_july_2024/Crud/Put/L273.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/saurabhRestAssured/ex_22_july_2024/Crud/Put/L273.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/thetestingacadmy/ex_22_july_2024/Crud/testing_crud.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/saurabhRestAssured/ex_22_july_2024/Crud/testing_crud.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/thetestingacadmy/ex_25_july_2024/L278.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/saurabhRestAssured/ex_25_july_2024/L278.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/thetestingacadmy/ex_25_july_2024/L279.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/saurabhRestAssured/ex_25_july_2024/L279.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/thetestingacadmy/ex_25_july_2024/L280.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/saurabhRestAssured/ex_25_july_2024/L280.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/thetestingacadmy/ex_25_july_2024/L281.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/saurabhRestAssured/ex_25_july_2024/L281.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/thetestingacadmy/ex_25_july_2024/L282.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/saurabhRestAssured/ex_25_july_2024/L282.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/thetestingacadmy/ex_25_july_2024/L283.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/saurabhRestAssured/ex_25_july_2024/L283.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/thetestingacadmy/ex_25_july_2024/L284.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/saurabhRestAssured/ex_25_july_2024/L284.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/thetestingacadmy/ex_25_july_2024/L285.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/saurabhRestAssured/ex_25_july_2024/L285.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/thetestingacadmy/ex_25_july_2024/L286.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/saurabhRestAssured/ex_25_july_2024/L286.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/thetestingacadmy/ex_25_july_2024/L287_Listeners.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/saurabhRestAssured/ex_25_july_2024/L287_Listeners.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/thetestingacadmy/ex_25_july_2024/Listeners/CustomListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/saurabhRestAssured/ex_25_july_2024/Listeners/CustomListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/thetestingacadmy/ex_25_july_2024/Listeners/L288_listeners.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/saurabhRestAssured/ex_25_july_2024/Listeners/L288_listeners.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/thetestingacadmy/ex_25_july_2024/Listeners/L289_listeners_copy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/saurabhRestAssured/ex_25_july_2024/Listeners/L289_listeners_copy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/thetestingacadmy/ex_25_july_2024/Listeners/testng288.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/saurabhRestAssured/ex_25_july_2024/Listeners/testng288.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/thetestingacadmy/ex_25_july_2024/testng280Prod.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/saurabhRestAssured/ex_25_july_2024/testng280Prod.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/thetestingacadmy/ex_25_july_2024/testng280QA.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/saurabhRestAssured/ex_25_july_2024/testng280QA.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/thetestingacadmy/ex_25_july_2024/testng280Reg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/saurabhRestAssured/ex_25_july_2024/testng280Reg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/thetestingacadmy/ex_25_july_2024/testng280all.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/saurabhRestAssured/ex_25_july_2024/testng280all.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/thetestingacadmy/ex_25_july_2024/testng280smoke.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/thetestingacadmy/ex_25_july_2024/testng284_param_chrome.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/saurabhRestAssured/ex_25_july_2024/testng284_param_chrome.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/thetestingacadmy/ex_25_july_2024/testng284_param_firefox.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/saurabhRestAssured/ex_25_july_2024/testng284_param_firefox.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/thetestingacadmy/ex_27_july_2024/Gson/DeSerialization/L295.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/saurabhRestAssured/ex_27_july_2024/Gson/DeSerialization/L295.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/thetestingacadmy/ex_27_july_2024/Gson/L291.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/saurabhRestAssured/ex_27_july_2024/Gson/L291.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/thetestingacadmy/ex_27_july_2024/Gson/Serialization/Booking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/saurabhRestAssured/ex_27_july_2024/Gson/Serialization/Booking.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/thetestingacadmy/ex_27_july_2024/Gson/Serialization/BookingDates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/saurabhRestAssured/ex_27_july_2024/Gson/Serialization/BookingDates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/thetestingacadmy/ex_27_july_2024/Gson/Serialization/BookingResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/saurabhRestAssured/ex_27_july_2024/Gson/Serialization/BookingResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/thetestingacadmy/ex_27_july_2024/Gson/Serialization/Generated/Booking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/saurabhRestAssured/ex_27_july_2024/Gson/Serialization/Generated/Booking.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/thetestingacadmy/ex_27_july_2024/Gson/Serialization/Generated/BookingDates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/saurabhRestAssured/ex_27_july_2024/Gson/Serialization/Generated/BookingDates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/thetestingacadmy/ex_27_july_2024/Gson/Serialization/L292.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/saurabhRestAssured/ex_27_july_2024/Gson/Serialization/L292.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/thetestingacadmy/ex_27_july_2024/Gson/Serialization/L293.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/saurabhRestAssured/ex_27_july_2024/Gson/Serialization/L293.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/thetestingacadmy/ex_27_july_2024/Gson/Serialization/L294.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/saurabhRestAssured/ex_27_july_2024/Gson/Serialization/L294.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/thetestingacadmy/ex_27_july_2024/Jackson/DeSerialization/L296.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/saurabhRestAssured/ex_27_july_2024/Jackson/DeSerialization/L296.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/thetestingacadmy/ex_27_july_2024/Jackson/Serialization/L295.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/saurabhRestAssured/ex_27_july_2024/Jackson/Serialization/L295.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/thetestingacadmy/ex_27_july_2024/L289_payload_using_Map.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/thetestingacadmy/ex_27_july_2024/L290_payload_using_Map.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/saurabhRestAssured/ex_27_july_2024/L290_payload_using_Map.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/thetestingacadmy/ex_27_july_2024/PayloadFile/L298.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/saurabhRestAssured/ex_27_july_2024/PayloadFile/L298.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/thetestingacadmy/ex_27_july_2024/PayloadFile/paylod.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/saurabhRestAssured/ex_27_july_2024/PayloadFile/paylod.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/thetestingacadmy/ex_27_july_2024/jsonschemavalidation/L297.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/saurabhRestAssured/ex_27_july_2024/jsonschemavalidation/L297.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/thetestingacadmy/ex_27_july_2024/jsonschemavalidation/schema.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/saurabhRestAssured/ex_27_july_2024/jsonschemavalidation/schema.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/thetestingacadmy/ex_27_july_2024/testing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/saurabhRestAssured/ex_27_july_2024/testing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/thetestingacadmy/test_ex/L260.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/saurabhRestAssured/test_ex/L260.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/thetestingacadmy/test_ex/L263.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/saurabhRestAssured/test_ex/L263.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/html/suite0_groups.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/html/suite0_groups.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/html/suite0_test0_results.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/html/suite0_test0_results.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/xml/thetestingacadmy.TestNG.L261_results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/xml/thetestingacadmy.TestNG.L261_results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/xml/thetestingacadmy.TestNG.L262_results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/xml/thetestingacadmy.TestNG.L262_results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/xml/thetestingacadmy.TestNG.L264_results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/xml/thetestingacadmy.TestNG.L264_results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/xml/thetestingacadmy.TestNG.L265_results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/xml/thetestingacadmy.TestNG.L265_results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/xml/thetestingacadmy.TestNG.L266_results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/xml/thetestingacadmy.TestNG.L266_results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/xml/thetestingacadmy.ex_25_july_2024.L280_results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/xml/thetestingacadmy.ex_25_july_2024.L280_results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/xml/thetestingacadmy.ex_25_july_2024.Listeners.L288_listeners_results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/xml/thetestingacadmy.ex_25_july_2024.Listeners.L288_listeners_results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/xml/thetestingacadmy.ex_25_jun_2024.L278_results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/xml/thetestingacadmy.ex_25_jun_2024.L278_results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/xml/thetestingacadmy.ex_25_jun_2024.L279_results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/xml/thetestingacadmy.ex_25_jun_2024.L279_results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/xml/thetestingacadmy.ex_25_jun_2024.L280_results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/xml/thetestingacadmy.ex_25_jun_2024.L280_results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/xml/thetestingacadmy.ex_25_jun_2024.L281_results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/xml/thetestingacadmy.ex_25_jun_2024.L281_results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/xml/thetestingacadmy.ex_25_jun_2024.L282_results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/xml/thetestingacadmy.ex_25_jun_2024.L282_results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/xml/thetestingacadmy.ex_25_jun_2024.L283_results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/xml/thetestingacadmy.ex_25_jun_2024.L283_results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/xml/thetestingacadmy.ex_25_jun_2024.L284_results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/xml/thetestingacadmy.ex_25_jun_2024.L284_results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/xml/thetestingacadmy.ex_25_jun_2024.L285_results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/xml/thetestingacadmy.ex_25_jun_2024.L285_results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/xml/thetestingacadmy.ex_25_jun_2024.L286_results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/xml/thetestingacadmy.ex_25_jun_2024.L286_results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/xml/thetestingacadmy.ex_25_jun_2024.Listeners.L288_listeners_results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/xml/thetestingacadmy.ex_25_jun_2024.Listeners.L288_listeners_results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/xml/thetestingacadmy.ex_27_july_2024.Gson.DeSerialization.L295_results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/xml/thetestingacadmy.ex_27_july_2024.Gson.DeSerialization.L295_results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/xml/thetestingacadmy.ex_27_july_2024.Gson.Serialization.L292_results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/xml/thetestingacadmy.ex_27_july_2024.Gson.Serialization.L292_results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/xml/thetestingacadmy.ex_27_july_2024.Gson.Serialization.L293_results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/xml/thetestingacadmy.ex_27_july_2024.Gson.Serialization.L293_results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/xml/thetestingacadmy.ex_27_july_2024.Gson.Serialization.L294_results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/xml/thetestingacadmy.ex_27_july_2024.Gson.Serialization.L294_results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/xml/thetestingacadmy.ex_27_july_2024.Jackson.DeSerialization.L296_results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/xml/thetestingacadmy.ex_27_july_2024.Jackson.DeSerialization.L296_results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/xml/thetestingacadmy.ex_27_july_2024.Jackson.Serialization.L295_results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/xml/thetestingacadmy.ex_27_july_2024.Jackson.Serialization.L295_results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/xml/thetestingacadmy.ex_27_july_2024.L290_payload_using_Map_results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/xml/thetestingacadmy.ex_27_july_2024.L290_payload_using_Map_results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/xml/thetestingacadmy.ex_27_july_2024.PayloadFile.L298_results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/xml/thetestingacadmy.ex_27_july_2024.PayloadFile.L298_results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/xml/thetestingacadmy.ex_27_july_2024.jsonschemavalidation.L297_results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/xml/thetestingacadmy.ex_27_july_2024.jsonschemavalidation.L297_results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/xml/thetestingacadmy.ex_27_july_2024.testing_results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/xml/thetestingacadmy.ex_27_july_2024.testing_results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/xml/thetestingacadmy.test_ex.L263_results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/xml/thetestingacadmy.test_ex.L263_results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng266.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng266.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng272.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng272.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,7 +175,31 @@
       <option name="project" value="LOCAL" />
       <updated>1719925579878</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <option name="closed" value="true" />
+      <created>1721388731506</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1721388731506</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <option name="closed" value="true" />
+      <created>1721388802733</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1721388802733</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <option name="closed" value="true" />
+      <created>1721388952696</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1721388952696</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -97,6 +216,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="RestAssured" />
-    <option name="LAST_COMMIT_MESSAGE" value="RestAssured" />
+    <MESSAGE value="RestAssured_Learning" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
   </component>
 </project>

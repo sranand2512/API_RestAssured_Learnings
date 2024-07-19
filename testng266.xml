@@ -4,7 +4,7 @@
     <test verbose="2" preserve-order="true"
           name="C:/Users/sanan/IdeaProjects/ATB6xRestAssured/src/test/java/thetestingacadmy/TestNG/L266.java">
         <classes>
-            <class name="thetestingacadmy.TestNG.L266">
+            <class name="com.saurabhRestAssured.TestNG.L266">
                 <methods>
                     <include name="testCase1"/>
                     <include name="testCase2"/>
